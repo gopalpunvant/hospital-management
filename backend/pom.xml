@@ -9,10 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vencent</groupId>
-	<artifactId>hospital-managment</artifactId>
+
+	<artifactId>hospital-management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hospital-managment</name>
-	<description>This is hospital managment  project</description>
+	<name>hospital-management</name>
+	<description>This project is a hospital management project.</description>
 
 	<properties>
 		<java.version>1.8</java.version>
